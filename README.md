@@ -1,5 +1,15 @@
 # Sam Taylor - Data Analysis Portfolio
 
+<p align="left"><a 
+href="https://github.com/SamTaylor92" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/samjamest" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://stackoverflow.com/users/18680621/sam-taylor" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=18680621" /></a> 
+</p>
+<p align="center">
+	
 ## About
 
 Hi, I'm Sam! 
@@ -8,7 +18,24 @@ I am a Business Intelligence Analyst, based in Berlin, with a background in the 
 
 This repository is to showcase skills, share projects and track my journey in Data Analytics.  
 <br>
-  
+
+<h3> Languages:</h3>
+<p>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+</p>
+<h3> Tools:</h3>
+<p>
+<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
+<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Atom" src="https://badgen.net/badge/icon/atom?icon=atom&label"/></a> 
+</p>
+
+	
 -------
 To adapt
 -------
@@ -119,12 +146,17 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- 💼 LinkedIn: [@SamJames](www.linkedin.com/in/samjamest)
+- 💼 LinkedIn: [@SamJames](https://www.linkedin.com/in/samjamest)
 - 💬 Signal: [@SamJames](https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe)
-- 💬 WhatsApp: [@SamJames](wa.link/nlsb5k)
 - 📭 E-mail: samtaylor92@live.co.uk 
+
+
 
 </br></br>
 © 2022 GitHub, Inc.
 Terms
 Privacy
+<p align="left">
+<img src="https://visitor-badge.glitch.me/badge?page_id=SamTaylor92.SamTaylor92"/>
+<br>
+</p>
