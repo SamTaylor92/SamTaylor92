@@ -54,13 +54,12 @@ To adapt
 	+ [Python Developer Track](#python-developer-track)
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
-	+ [Side Projects](#side-projects)
-	+ [Tableau Vizzes](#tableau-vizzes)
+- [Side Projects](#side-projects)
 - [Certificates](#certificates)
 - [Learning](#learning)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+Below are some of the data analytic projects I have worked on.
 
 ### Company Sales and Operations Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
@@ -114,35 +113,45 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 **Repository:** Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> [go to repo..](https://github.com/nktnlx/google_python_class)  
 **Status:** Completed in November 2020.  
 
-### Side Projects
-**Description:** Side projects and various code snippets I'm having fun with.  
-**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, [Google Sheets Course by Yandex Praktikum](https://practicum.yandex.ru/excel-for-work/), etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
-**Status:** ∞  
+## Side Projects
+Below are some of the non-data analytic-related coding that I have been working on:
 
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
+### Example project 1
+**Description:** Description example 
+**Repository:** Repository name example [link](https://github.com/SamTaylor92)  
 **Status:** ∞  
 
 ## Certificates
-Although not a replacement for on-the-job experience or project work, certifications are another way to keep our skills up-to-date. Here are some certifications I have aquired over the years:
+<details>
+	<summary> Although not a replacement for on-the-job experience or project work, certifications are another way to keep our skills up-to-date. Here are some certifications I have aquired over the years:</summary>
+	
 - [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+	
+</details>
 
 ## Learning
-Future courses that I want to explore:
-- [ ] [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Kaggle)
-- [ ] [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Kaggle)
-- [ ] [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (karpov.courses)
-- [ ] [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Oracle)
-- [ ] [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (Tinkoff Education)
-- [ ] [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Yandex Praktikum & University)
-- [ ] [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Qlik Q, accenture, Data Yoga)
-- [ ] [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (RealPython)
-- [ ] [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Tinkoff Education) 
-- [ ] [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Coursera - Duke University)
-- [ ] [Computer Science Career Path](https://drive.google.com/file/d/1cCcg7Uf4qqGq6B5OFLBPrNAA3ncEYgXD/view?usp=sharing) (Codecademy)
-- [ ] [Learn the Command Line Course](https://drive.google.com/file/d/1yPtPFhvKmsv9rmJbvf3dtarXavpsi6lq/view?usp=sharing) (Codecademy)
-- [ ] [Learn Git Course](https://drive.google.com/file/d/19DrPoYxcjijNvIbnXF959uIO_Kl7TOZ1/view) (Codecademy)
-- [ ] [Learn Python 3 Course](https://drive.google.com/file/d/1VTGmE15-QbwMyscxVpAAKAwllZgc1a8c/view?usp=sharing) (Codecademy)
+
+<details>
+	<summary> Future courses that I want to explore: </summary>
+
+- [ ] [[Kaggle] Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [ ] [[Kaggle] Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [ ] [[Coursera] Data Science Math Skills](https://www.classcentral.com/course/datasciencemathskills-7745)
+- [ ] [[Codeacademy] Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science)
+- [ ] [[Codeacademy] Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [[Codeacademy] Learn Git Course](https://www.codecademy.com/learn/learn-git)
+- [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
+	
+</details>
+
+
 
 </br></br>
 © 2022 GitHub, Inc.
