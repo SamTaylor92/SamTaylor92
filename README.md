@@ -11,6 +11,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 <br>
   
 -------
+To adapt
+-------
+
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
