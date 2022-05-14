@@ -150,7 +150,9 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - 💬 Signal: [@SamJames](https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe)
 - 📭 E-mail: samtaylor92@live.co.uk 
 
+<a href="https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/></a> 
 
+<a href="https://www.linkedin.com/in/samjamest" target="_blank"><img alt="LinkedIn" 
 
 </br></br>
 © 2022 GitHub, Inc.
