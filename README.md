@@ -6,7 +6,6 @@ Hi, I'm Sam!
 
 I am a Business Intelligence Analyst, based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & French) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education. During my 5 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead and a Quality Assurance Manager before transitioning over to an Operations Analyst in November 2021.
 
-<br>
 This repository is to showcase skills, share projects and track my journey in Data Analytics.  
 <br>
   
