@@ -1,14 +1,16 @@
 # Sam Taylor - Data Analysis Portfolio
 
-<p align="left"><a 
-href="https://github.com/SamTaylor92" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/samjamest" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+<p align="left"> <a 
 href="https://stackoverflow.com/users/18680621/sam-taylor" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=18680621" /></a> 
+src="https://stackoverflow-badge.vercel.app/?userID=18680621" /></a> <a 
+href="https://github.com/SamTaylor92" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/samjamest" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a 
+href="https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white"/></a> <a 
+href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="center">
+<p align="left">
 	
 ## About
 
@@ -17,24 +19,24 @@ Hi, I'm Sam!
 I am a Business Intelligence Analyst, based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & French) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education. During my 5 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead and a Quality Assurance Manager before transitioning over to an Operations Analyst in November 2021.
 
 This repository is to showcase skills, share projects and track my journey in Data Analytics.  
-<br>
+
 
 <h3> Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 </p>
 <h3> Tools:</h3>
 <p>
-<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
-<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Atom" src="https://badgen.net/badge/icon/atom?icon=atom&label"/></a> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> 
+<a target="_blank"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white"/></a> 
+<a target="_blank"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white"/></a> 
+<a target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/></a>
+<a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> 
+<a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
+</a> 
 </p>
-
 	
 -------
 To adapt
@@ -43,9 +45,8 @@ To adapt
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
 - [Study Projects](#study-projects)  
-    + [sklearn ML course](#sklearn-ML-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
@@ -56,7 +57,7 @@ To adapt
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
-- [Contacts](#contacts)
+- [Learning](#learning)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -123,42 +124,28 @@ This 3 month course is an in-depth introduction to predictive modeling with scik
 **Status:** ∞  
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Aug 2021) (Kaggle)
-- [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (Jul 2021) (karpov.courses)
-- [Jira and Confluence basics](https://drive.google.com/file/d/1dTCQGwKoEjBWmeaXHuktiEyYtRvvLPY-/view?usp=sharing) (Jun 2021) (GeekBrains)
-- [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Jun 2021) (Oracle)
-- [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (May 2021) (Tinkoff Education)
-- [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35)
-- [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga)
-- [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython)
-- [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Dec 2020) (Tinkoff Education) 
-- [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Oct 2020) (Coursera - Duke University)
-- [Computer Science Career Path](https://drive.google.com/file/d/1cCcg7Uf4qqGq6B5OFLBPrNAA3ncEYgXD/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn the Command Line Course](https://drive.google.com/file/d/1yPtPFhvKmsv9rmJbvf3dtarXavpsi6lq/view?usp=sharing) (Jul 2020) (Codecademy)
-- [Learn Git Course](https://drive.google.com/file/d/19DrPoYxcjijNvIbnXF959uIO_Kl7TOZ1/view) (Jun 2020) (Codecademy)
-- [Learn Python 3 Course](https://drive.google.com/file/d/1VTGmE15-QbwMyscxVpAAKAwllZgc1a8c/view?usp=sharing) (Jun 2020) (Codecademy)
-- [English for Career Development](https://coursera.org/share/f7e97252ee37a74d3c1f57f54f5d5a54) (Feb 2018) (Coursera - University of Pennsylvania)
-- [Learning How to Learn](https://coursera.org/share/5e7320a42bee969f6e9e6325559e7215) (Feb 2018) (Coursera - University of California San Diego)
-- [Fundamentals of Project Planning and Management](https://coursera.org/share/e90fb632268a6c233b6e229c7d068e8f) (Oct 2015) (Coursera - University of Virginia)
-- [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+Although not a replacement for on-the-job experience or project work, certifications are another way to keep our skills up-to-date. Here are some certifications I have aquired over the years:
+- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
 
-## Contacts
-- 💼 LinkedIn: [@SamJames](https://www.linkedin.com/in/samjamest)
-- 💬 Signal: [@SamJames](https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe)
-- 📭 E-mail: samtaylor92@live.co.uk 
-
-<a href="https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/></a> 
-
-<a href="https://www.linkedin.com/in/samjamest" target="_blank"><img alt="LinkedIn" 
+## Learning
+Future courses that I want to explore:
+- [ ] [Intermediate Machine Learning](https://drive.google.com/file/d/1kqQFRhJtI097SJ7udZVbLRAJBddvWW4S/view?usp=sharing) (Kaggle)
+- [ ] [Intro to Machine Learning](https://drive.google.com/file/d/1cdL1XluCHCKmG0AarthZm74kiem5y33o/view?usp=sharing) (Kaggle)
+- [ ] [Data Analyst Specialization](https://drive.google.com/file/d/16WKsX7z5LpMo1VxpZc7CQsWNzYfUzB6f/view?usp=sharing) (karpov.courses)
+- [ ] [Databases for Developers: SQL Foundations](https://drive.google.com/file/d/13dHqXw8Ew3r1XfSxPBkT2lF9_1I3M9cu/view?usp=sharing) (Oracle)
+- [ ] [Data Analysis Course Tinkoff-MSU](https://drive.google.com/file/d/15OIzi5H3Kxs4-8gx7FNgMrW1FNdueEKC/view?usp=sharing) (Tinkoff Education)
+- [ ] [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Yandex Praktikum & University)
+- [ ] [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Qlik Q, accenture, Data Yoga)
+- [ ] [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (RealPython)
+- [ ] [Fintech Trends](https://drive.google.com/file/d/1L9MISA6nYsf0mJ8c6Mp3davLv-yWKzt7/view?usp=sharing) (Tinkoff Education) 
+- [ ] [Data Science Math Skills](https://coursera.org/share/03d1c12de0037c35bb3dd1e35d23f4d6) (Coursera - Duke University)
+- [ ] [Computer Science Career Path](https://drive.google.com/file/d/1cCcg7Uf4qqGq6B5OFLBPrNAA3ncEYgXD/view?usp=sharing) (Codecademy)
+- [ ] [Learn the Command Line Course](https://drive.google.com/file/d/1yPtPFhvKmsv9rmJbvf3dtarXavpsi6lq/view?usp=sharing) (Codecademy)
+- [ ] [Learn Git Course](https://drive.google.com/file/d/19DrPoYxcjijNvIbnXF959uIO_Kl7TOZ1/view) (Codecademy)
+- [ ] [Learn Python 3 Course](https://drive.google.com/file/d/1VTGmE15-QbwMyscxVpAAKAwllZgc1a8c/view?usp=sharing) (Codecademy)
 
 </br></br>
 © 2022 GitHub, Inc.
 Terms
 Privacy
-<p align="left">
-<img src="https://visitor-badge.glitch.me/badge?page_id=SamTaylor92.SamTaylor92"/>
-<br>
-</p>
+
