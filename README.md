@@ -129,7 +129,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 ### 🦸🏼‍♂️ [Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero
 
 `Organisation:` [Udemy](https://www.udemy.com/) 
-`Duration`: 9 hours 
+`Duration:` 9 hours 
 `Credential:` [[Link]](https://www.ude.my/UC-2e082714-0c0d-42f6-9716-7ecad3757d27/)
 
 <details>
@@ -150,7 +150,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 ### 👨🏼‍💼 [Jun 2018] Management and Leadership: Growing as a Manager
 
 `Organisation:` [The Open University Business School](https://business-school.open.ac.uk/)
-`Duration`: 4 weeks 
+`Duration:` 4 weeks 
 `Credential:` [[Link]](https://www.futurelearn.com/certificates/q6v2kjp) <br> 
 
 <details>
