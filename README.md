@@ -59,12 +59,12 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
-`Code:` [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-`Presentation:` [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-`Description:` The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+`Code:` [`JUPYTER NOTEBOOK`](https://google.com)    
+`Presentation:` [`PDF PRESENTATION`](https://google.com)   
+`Description:` The dataset contains XXX records as of XXX. There is a list of company sales along with [LIST OTHER COLUMNS]. The project involved: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 `Skills:` data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-`Technology:` Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-`Results:` Review of the global and regional video games markets, data-based business recommendations.  
+`Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
+`Results:` Data-based business recommendations for the company.  
 </details>
 	
 </details>
