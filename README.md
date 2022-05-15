@@ -44,7 +44,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
 	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
-- [Study projects](#learning-projects)  
+- [Learning projects](#learning-projects)  
 	+ [Kaggle: Time series](#kaggle-time-series)
 - [Other projects](#side-projects)
 - [Certificates](#certificates)
@@ -102,17 +102,69 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Certificates
 <details>
-	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years.</summary><br>
+	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years.</summary>
+
+---
 	
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
-- [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
+### 💻 [Apr 2022] SQL Fundamentals Track
+
+`Organisation:` [DataCamp](https://www.datacamp.com/) 
+`Duration:` 21 hours
+`Credential:` [[Link]](https://www.datacamp.com/statement-of-accomplishment/track/4ed631ddd30cf02dd93448455582ae5623362e4f)
+
+<details>
+
+<summary> <b> Description:</b> </summary> <br>
+
+ - Introduction to SQL
+ - Joining data in SQL
+ - Intermediate SQL
+ - PostgresSQL summary stats and window functions
+ - Functions for Manipulating Data in PostgreSQL
+
+</details>
+
+---	
 	
+### 🦸🏼‍♂️ [Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration`: 9 hours 
+`Credential:` [[Link]](https://www.ude.my/UC-2e082714-0c0d-42f6-9716-7ecad3757d27/)
+
+<details>
+
+<summary> <b> Description:</b> </summary> <br>
+
+- SQL statement fundamentals (Select, Count, Where, Order by, Limit, In, (I)like)
+- Group by statements (Group by, Having)
+ - Joins (As statement, Inner joins, Full outer joins, Left outer joins, Right joins, Union)
+ - Advanced SQL commands (Timestamps, extract, mathmatecal functions, string functions, subquery, self-join)
+ - Creating databases and tables (data types, primary & foreign keys, constraints, create table, insert, update, delete, alter table, drop table, check constraint)
+ - Conditional expressions and procedures (case, coalesce, cast, nullif, views, import, export)
+
+</details>
+
+---
+	
+### 👨🏼‍💼 [Jun 2018] Management and Leadership: Growing as a Manager
+
+`Organisation:` [The Open University Business School](https://business-school.open.ac.uk/)
+`Duration`: 4 weeks 
+`Credential:` [[Link]](https://www.futurelearn.com/certificates/q6v2kjp) <br> 
+
+<details>
+
+<summary> <b> Description:</b> </summary> <br>
+
+The course offers participants an introduction to the foundation skills and knowledge of a middle manager and leader. The learning activities begin the process of preparing the learner for the Chartered Management Institute (CMI) qualifications in Management and Leadership at Level 5. It introduces them as experienced practitioners to the underpinning theory of management and leadership. The course was prepared by The Open University Business School (AMBA, EQUIS, AACSB triple-accredited)
+
+</details>	
+
+---
+	
+</details>	
+
 </details>
 
 ## Learning
