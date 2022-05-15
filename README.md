@@ -37,24 +37,27 @@ This repository is to showcase skills, share projects and track my journey in Da
 <a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
 </a> 
 </p>
-	
-## Table of contents
+
+<details>
+<summary> <h2>Table of contents</h2></summary>	
+
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Portfolio projects](#portfolio-projects)
 	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
-- [Study Projects](#study-projects)  
+- [Study projects](#learning-projects)  
 	+ [Kaggle: Time series](#kaggle-time-series)
-- [Side Projects](#side-projects)
+- [Other projects](#side-projects)
 - [Certificates](#certificates)
 - [Learning](#learning)
 
-## Portfolio Projects
-<details open>
-<summary>Below are some of the data analytic projects I have worked on:</summary>
+</details>
 
-### [Company Sales and Operations Analysis] 
-<details open>
-	<summary> </summary>
+## Portfolio Projects
+<details>
+<summary>Below are some of the data analytic projects I have worked on. </summary>
+
+<details>
+<summary> <h3>[Company Sales and Operations Analysis]</h3> </summary>
 	
 `Code:` [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 `Presentation:` [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
@@ -67,12 +70,12 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 ## Learning Projects
-<details open>
-	<summary>Below are projects worked on for online courses:</summary>
+<details>
+	<summary>Below are projects worked on for online courses.</summary>
 
-### [Kaggle: Time series] 
-<details open>
-	<summary> </summary>
+<details>
+
+<summary> <h3>[Kaggle: Time series]</h3> </summary>
 
 `Description:` Learning to apply machine learning to real-world forecasting tasks. [[Link]](https://www.kaggle.com/learn/time-series) <br>
 `Duration:` 5 hours <br>
@@ -84,19 +87,22 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 ## Side Projects
-<details open>
-	<summary> Below are a collection of non-data-analytic projects that I have been working on: </summary>
+<details>
+	<summary> Below are a collection of non-data-analytic projects that I have been working on. </summary>
 
-### [Example project 1]
+<details open>
+	<summary><h3>[Example project 1]</h3></summary>
+	
 `Description:` Description example <br>
 `Repository:` Repository name example [(link)](https://github.com/SamTaylor92) <br> 
 `Status:` ∞
-	
+
+</details>
 </details>
 
 ## Certificates
-<details open>
-	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years:</summary>
+<details>
+	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years.</summary><br>
 	
 - [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
 - [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
@@ -112,7 +118,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Learning
 
 <details>
-	<summary> Future courses that I want to explore: </summary>
+	<summary> Future courses that I want to explore. </summary><br>
 
 - [ ] [[Kaggle] Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [ ] [[Kaggle] Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
