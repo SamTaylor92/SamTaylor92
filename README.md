@@ -1,6 +1,8 @@
-# [Sam Taylor]<br> Data analysis portfolio
+![Sam Taylor](https://user-images.githubusercontent.com/105542266/168467543-3057e37f-781f-445d-b953-88624c438755.png)
 
-<p align="left"> <a 
+
+
+<p align="right"> <a 
 href="https://stackoverflow.com/users/18680621/sam-taylor" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=18680621" /></a> <a 
 href="https://github.com/SamTaylor92" target="_blank"><img alt="Github" 
@@ -10,7 +12,7 @@ src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=L
 href="https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCYdnCVL1ok4DlVNntY3mGe" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-3A76F0.svg?style=for-the-badge&logo=Signal&logoColor=white"/></a> <a 
 href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="left">
+<p align="right">
 	
 ## About
 
