@@ -127,7 +127,6 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 
-
 </br></br>
 © 2022 GitHub, Inc.
 Terms
