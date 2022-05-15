@@ -52,7 +52,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 <summary>Below are some of the data analytic projects I have worked on:</summary>
 
-### Company Sales and Operations Analysis 
+### [Company Sales and Operations Analysis] 
 <details open>
 	<summary> </summary>
 	
@@ -70,7 +70,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 	<summary>In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with:</summary>
 
-### Kaggle: Time series 
+### [Kaggle: Time series] 
 <details open>
 	<summary> </summary>
 
@@ -87,7 +87,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 	<summary> Below are some of the non-data analytic-related coding that I have been working on: </summary>
 
-### Example project 1
+### [Example project 1]
 `Description:` Description example <br>
 `Repository:` Repository name example [(link)](https://github.com/SamTaylor92) <br> 
 `Status:` ∞
