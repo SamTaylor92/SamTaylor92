@@ -57,7 +57,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary>Below are some of the data analytic projects I have worked on. </summary>
 
 <details>
-<summary> <h3>[Company Sales and Operations Analysis]</h3> </summary>
+<summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
 `Code:` [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 `Presentation:` [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
@@ -75,7 +75,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details>
 
-<summary> <h3>[Kaggle: Time series]</h3> </summary>
+<summary> <h3>📈[Kaggle: Time series]</h3> </summary>
 
 `Description:` Learning to apply machine learning to real-world forecasting tasks. [[Link]](https://www.kaggle.com/learn/time-series) <br>
 `Duration:` 5 hours <br>
@@ -91,7 +91,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary> Below are a collection of non-data-analytic projects that I have been working on. </summary>
 
 <details open>
-	<summary><h3>[Example project 1]</h3></summary>
+	<summary><h3>🚀[Example project 1]</h3></summary>
 	
 `Description:` Description example <br>
 `Repository:` Repository name example [(link)](https://github.com/SamTaylor92) <br> 
