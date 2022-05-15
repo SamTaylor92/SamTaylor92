@@ -66,9 +66,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 </details>
 
-## Study Projects
+## Learning Projects
 <details open>
-	<summary>In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with:</summary>
+	<summary>Below are projects worked on for online courses:</summary>
 
 ### [Kaggle: Time series] 
 <details open>
@@ -85,7 +85,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Side Projects
 <details open>
-	<summary> Below are some of the non-data analytic-related coding that I have been working on: </summary>
+	<summary> Below are a collection of non-data-analytic projects that I have been working on: </summary>
 
 ### [Example project 1]
 `Description:` Description example <br>
@@ -96,7 +96,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Certificates
 <details open>
-	<summary> Although not a replacement for on-the-job experience or project work, certifications are another way to keep our skills up-to-date. Here are some certifications I have aquired over the years:</summary>
+	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years:</summary>
 	
 - [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
 - [Example](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjwkOLkuN_3AhVORPEDHVDLCm0QPAgI) (Example)
