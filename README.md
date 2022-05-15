@@ -1,7 +1,5 @@
 ![Sam Taylor](https://user-images.githubusercontent.com/105542266/168467543-3057e37f-781f-445d-b953-88624c438755.png)
 
-
-
 <p align="right"> <a 
 href="https://stackoverflow.com/users/18680621/sam-taylor" target="_blank"><img alt="StackOverflow" 
 src="https://stackoverflow-badge.vercel.app/?userID=18680621" /></a> <a 
@@ -125,7 +123,6 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
 	
 </details>
-
 
 </br></br>
 © 2022 GitHub, Inc.
