@@ -90,7 +90,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 	<summary> Below are a collection of non-data-analytic projects that I have been working on. </summary>
 
-<details open>
+<details>
 	<summary><h3>🚀[Example project 1]</h3></summary>
 	
 `Description:` Description example <br>
