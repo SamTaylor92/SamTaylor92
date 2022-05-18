@@ -53,7 +53,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 ## Portfolio Projects
-<details>
+<details open>
 <summary>Below are some of the data analytic projects I have worked on. </summary>
 
 <details>
@@ -70,7 +70,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 ## Learning Projects
-<details>
+<details open>
 	<summary>Below are projects worked on for online courses.</summary>
 
 <details>
@@ -87,7 +87,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 ## Side Projects
-<details>
+<details open>
 	<summary> Below are a collection of non-data-analytic projects that I have been working on. </summary>
 
 <details open>
