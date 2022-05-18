@@ -139,7 +139,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 - SQL statement fundamentals (Select, Count, Where, Order by, Limit, In, (I)like)
 - Group by statements (Group by, Having)
  - Joins (As statement, Inner joins, Full outer joins, Left outer joins, Right joins, Union)
- - Advanced SQL commands (Timestamps, extract, mathmatecal functions, string functions, subquery, self-join)
+ - Advanced SQL commands (Timestamps, extract, mathematical functions, string functions, subquery, self-join)
  - Creating databases and tables (data types, primary & foreign keys, constraints, create table, insert, update, delete, alter table, drop table, check constraint)
  - Conditional expressions and procedures (case, coalesce, cast, nullif, views, import, export)
 
