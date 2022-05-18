@@ -54,7 +54,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Portfolio Projects
 <details open>
-<summary> </summary>
+<summary>Below are projects worked on for online courses.</summary>
 
 <details>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
@@ -71,7 +71,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Learning Projects
 <details open>
-	<summary></summary>
+	<summary>Below are projects worked on for online courses.</summary>
 
 <details>
 
@@ -88,7 +88,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Side Projects
 <details open>
-	<summary></summary>
+	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
 
 <details>
 	<summary><h3>🚀[Example project 1]</h3></summary>
