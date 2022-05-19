@@ -102,7 +102,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Certificates
 <details>
-	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have aquired over the years.</summary>
+	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.</summary>
 
 ---
 	
