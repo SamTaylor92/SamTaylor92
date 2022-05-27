@@ -54,7 +54,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Portfolio Projects
 <details open>
-<summary>Below are projects worked on for online courses.</summary>
+<summary>Below are projects I've worked on.</summary>
 
 <details>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
@@ -72,17 +72,6 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Learning Projects
 <details open>
 	<summary>Below are projects worked on for online courses.</summary>
-
-<details>
-
-<summary> <h3>📈[Kaggle: Time series]</h3> </summary>
-
-`Description:` Learning to apply machine learning to real-world forecasting tasks. [[Link]](https://www.kaggle.com/learn/time-series) <br>
-`Duration:` 5 hours <br>
-`Repository:` [[Link]](https://google.com) <br>
-`Status:` In progress
-
-</details>	 
 
 <details>
 
@@ -182,6 +171,7 @@ The course offers participants an introduction to the foundation skills and know
 	<summary> Future courses that I want to explore. </summary><br>
 
 - [ ] [[Kaggle] Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [ ] [[Kaggle: Time series]](https://www.kaggle.com/learn/time-series)	
 - [ ] [[Kaggle] Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [ ] [[Coursera] Data Science Math Skills](https://www.classcentral.com/course/datasciencemathskills-7745)
 - [ ] [[Codeacademy] Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science)
