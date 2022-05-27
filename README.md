@@ -84,6 +84,15 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>	 
 
+<details>
+
+<summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
+
+`Description:` <br>A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) for each core skill (data aggregation & exploratory data analysis). <br>
+`Duration:` 35 hours <br>
+`Repository:` [[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) <br>
+`Status:` In progress	
+		
 </details>
 
 ## Side Projects
