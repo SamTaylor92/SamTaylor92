@@ -60,7 +60,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 <summary>Below are projects I've worked on.</summary>
 
-<details>
+<details open>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
 [`CODE`](https://google.com)
@@ -72,8 +72,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Skills:` data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 `Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
 `Results:` Data-based business recommendations for the company.  
-<p align="right"> 
-<a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
+<p align="right"> <a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
 <p align="right">
 	
@@ -85,7 +84,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 	<summary>Below are projects worked on for online courses.</summary>
 
-<details>
+<details open>
 
 <summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
 	
@@ -105,7 +104,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details open>
 	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
 
-<details>
+<details open>
 	<summary><h3>🚀[Google sheets: split by multiple email addresses and create 1 row per person]</h3></summary>
 
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) `Date:` Jun 2022 `Status:` ✅ <br> <br>
@@ -123,7 +122,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 	
 ## Certificates
-<details>
+<details open>
 	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.</summary>
 	
 ### 💻 [Apr 2022] SQL Fundamentals Track 
@@ -132,7 +131,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Duration:` 21 hours
 `Credential:` [[Link]](https://www.datacamp.com/statement-of-accomplishment/track/4ed631ddd30cf02dd93448455582ae5623362e4f)
 
-<details>
+<details open>
 
 <summary> <code> Description: </code> </summary> <br>
 
@@ -153,7 +152,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Duration:` 9 hours 
 `Credential:` [[Link]](https://www.ude.my/UC-2e082714-0c0d-42f6-9716-7ecad3757d27/)
 
-<details>
+<details open>
 
 	
 <summary> <code> Description: </code> </summary> <br>
@@ -176,7 +175,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Duration:` 4 weeks 
 `Credential:` [[Link]](https://www.futurelearn.com/certificates/q6v2kjp) <br> 
 
-<details>
+<details open>
 
 <summary> <code> Description: </code> </summary> <br>
 
@@ -192,7 +191,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ## Learning
 
-<details>
+<details open>
 	<summary> Future courses that I want to explore. </summary><br>
 
 - [ ] [[Kaggle] Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
