@@ -45,14 +45,18 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [Portfolio projects](#portfolio-projects)
 	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)  
-	+ [Kaggle: Time series](#kaggle-time-series)
-- [Other projects](#side-projects)
+	+ [Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python](#udemy-the-complete-pandas-bootcamp-2022-data-science-with-python)
+- [Side projects](#side-projects)
+	+ [Google sheets: split by multiple email addresses and create 1 row per person](#google-sheets-split-by-multiple-email-addresses-and-create-1-row-per-person)
 - [Certificates](#certificates)
+	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
+	+ [[Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
+	+ [[Jun 2018] Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
 - [Learning](#learning)
 
 </details>
 
-## Portfolio Projects
+## Portfolio Projects 
 <details open>
 <summary>Below are projects I've worked on.</summary>
 
@@ -61,15 +65,23 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 `Code:` [`JUPYTER NOTEBOOK`](https://google.com)    
 `Presentation:` [`PDF PRESENTATION`](https://google.com)   
-`Description:` The dataset contains XXX records as of XXX. There is a list of company sales along with [LIST OTHER COLUMNS]. The project involved: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+`Description:` 
+
+>The dataset contains XXX records as of XXX. There is a list of company sales along with [LIST OTHER COLUMNS]. The project involved: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+
 `Skills:` data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 `Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
 `Results:` Data-based business recommendations for the company.  
-</details>
+<p align="right"> 
+<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+</p>
+<p align="right">
 	
 </details>
-
+</details>
+	
 ## Learning Projects
+
 <details open>
 	<summary>Below are projects worked on for online courses.</summary>
 
@@ -77,11 +89,18 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
 
-`Description:` <br>A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) for each core skill (data aggregation & exploratory data analysis). <br>
+`Description:` <br>
+	
+>A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) 	for each core skill (data aggregation & exploratory data analysis). <br>
+
 `Duration:` 35 hours <br>
 `Repository:` [[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) <br>
 `Status:` In progress	
-		
+<p align="right"> 
+<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+</p>
+<p align="right">	
+	
 </details>
 
 ## Side Projects
@@ -89,22 +108,27 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
 
 <details>
-	<summary><h3>🚀[Example project 1]</h3></summary>
+	<summary><h3>🚀[Google sheets: split by multiple email addresses and create 1 row per person]</h3></summary>
 	
-`Description:` Description example <br>
-`Repository:` Repository name example [(link)](https://github.com/SamTaylor92) <br> 
-`Status:` ∞
-
+`Date` Jun 2022<br>
+`Description:` 
+>A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
+	
+`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) <br> 
+`Status:` ✅
+<p align="right"> 
+<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+</p>
+<p align="right">
+	
 </details>
 </details>
-
+	
 ## Certificates
 <details>
 	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.</summary>
-
----
 	
-### 💻 [Apr 2022] SQL Fundamentals Track
+### 💻 [Apr 2022] SQL Fundamentals Track 
 
 `Organisation:` [DataCamp](https://www.datacamp.com/) 
 `Duration:` 21 hours
@@ -122,7 +146,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
----	
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
+
 	
 ### 🦸🏼‍♂️ [Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero
 
@@ -143,7 +168,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
----
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>	
+	
 	
 ### 👨🏼‍💼 [Jun 2018] Management and Leadership: Growing as a Manager
 
@@ -159,8 +185,8 @@ The course offers participants an introduction to the foundation skills and know
 
 </details>	
 
----
-	
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
+		
 </details>	
 
 </details>
@@ -178,6 +204,8 @@ The course offers participants an introduction to the foundation skills and know
 - [ ] [[Codeacademy] Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] [[Codeacademy] Learn Git Course](https://www.codecademy.com/learn/learn-git)
 - [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
+
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
 	
 </details>
 
