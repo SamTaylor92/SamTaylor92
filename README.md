@@ -63,8 +63,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
-`Code:` [`JUPYTER NOTEBOOK`](https://google.com)    <a href="https://google.com" target="_blank"><code>JUPYTER NOTEBOOK</code></a>
-`Presentation:` [`PDF PRESENTATION`](https://google.com)   
+[`CODE`](https://google.com)
+[`PDF PRESENTATION`](https://google.com)<br><br>
 `Description:` 
 
 >The dataset contains XXX records as of XXX. There is a list of company sales along with [LIST OTHER COLUMNS]. The project involved: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
@@ -88,14 +88,12 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details>
 
 <summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
-
+	
+`Repository:`[[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) `Duration:` 35 hours `Status:` In progress<br><br>
 `Description:` <br>
 	
 >A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) 	for each core skill (data aggregation & exploratory data analysis). <br>
-
-`Duration:` 35 hours <br>
-`Repository:` [[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) <br>
-`Status:` In progress	
+	
 <p align="right"> 
 <a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
@@ -109,13 +107,13 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details>
 	<summary><h3>🚀[Google sheets: split by multiple email addresses and create 1 row per person]</h3></summary>
-	
-`Date` Jun 2022<br>
+
+`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) `Date:` Jun 2022 `Status:` ✅ <br> <br>
 `Description:` 
 >A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
 	
-`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) <br> 
-`Status:` ✅
+ 
+
 <p align="right"> 
 <a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
@@ -136,13 +134,13 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details>
 
-<summary> <b> Description:</b> </summary> <br>
+<summary> <code> Description: </code> </summary> <br>
 
- - Introduction to SQL
- - Joining data in SQL
- - Intermediate SQL
- - PostgresSQL summary stats and window functions
- - Functions for Manipulating Data in PostgreSQL
+>  - Introduction to SQL
+>  - Joining data in SQL
+>  - Intermediate SQL
+>  - PostgresSQL summary stats and window functions
+>  - Functions for Manipulating Data in PostgreSQL
 
 </details>
 
@@ -157,14 +155,15 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details>
 
-<summary> <b> Description:</b> </summary> <br>
+	
+<summary> <code> Description: </code> </summary> <br>
 
-- SQL statement fundamentals (Select, Count, Where, Order by, Limit, In, (I)like)
-- Group by statements (Group by, Having)
- - Joins (As statement, Inner joins, Full outer joins, Left outer joins, Right joins, Union)
- - Advanced SQL commands (Timestamps, extract, mathematical functions, string functions, subquery, self-join)
- - Creating databases and tables (data types, primary & foreign keys, constraints, create table, insert, update, delete, alter table, drop table, check constraint)
- - Conditional expressions and procedures (case, coalesce, cast, nullif, views, import, export)
+> - SQL statement fundamentals (Select, Count, Where, Order by, Limit, In, (I)like)
+> - Group by statements (Group by, Having)
+>  - Joins (As statement, Inner joins, Full outer joins, Left outer joins, Right joins, Union)
+>  - Advanced SQL commands (Timestamps, extract, mathematical functions, string functions, subquery, self-join)
+>  - Creating databases and tables (data types, primary & foreign keys, constraints, create table, insert, update, delete, alter table, drop table, check constraint)
+>  - Conditional expressions and procedures (case, coalesce, cast, nullif, views, import, export)
 
 </details>
 
@@ -179,9 +178,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details>
 
-<summary> <b> Description:</b> </summary> <br>
+<summary> <code> Description: </code> </summary> <br>
 
-The course offers participants an introduction to the foundation skills and knowledge of a middle manager and leader. The learning activities begin the process of preparing the learner for the Chartered Management Institute (CMI) qualifications in Management and Leadership at Level 5. It introduces them as experienced practitioners to the underpinning theory of management and leadership. The course was prepared by The Open University Business School (AMBA, EQUIS, AACSB triple-accredited)
+> The course offers participants an introduction to the foundation skills and knowledge of a middle manager and leader. The learning activities begin the process of preparing the learner for the Chartered Management Institute (CMI) qualifications in Management and Leadership at Level 5. It introduces them as experienced practitioners to the underpinning theory of management and leadership. The course was prepared by The Open University Business School (AMBA, EQUIS, AACSB triple-accredited)
 
 </details>	
 
