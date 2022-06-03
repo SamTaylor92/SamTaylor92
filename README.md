@@ -63,7 +63,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <details>
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
-`Code:` [`JUPYTER NOTEBOOK`](https://google.com)    
+`Code:` [`JUPYTER NOTEBOOK`](https://google.com)    <a href="https://google.com" target="_blank"><code>JUPYTER NOTEBOOK</code></a>
 `Presentation:` [`PDF PRESENTATION`](https://google.com)   
 `Description:` 
 
