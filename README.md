@@ -73,7 +73,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
 `Results:` Data-based business recommendations for the company.  
 <p align="right"> 
-<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+<a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
 <p align="right">
 	
@@ -97,7 +97,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Repository:` [[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) <br>
 `Status:` In progress	
 <p align="right"> 
-<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+<a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
 <p align="right">	
 	
@@ -117,7 +117,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) <br> 
 `Status:` ✅
 <p align="right"> 
-<a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a>
+<a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a>
 </p>
 <p align="right">
 	
@@ -146,7 +146,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
 
 	
 ### 🦸🏼‍♂️ [Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero
@@ -168,7 +168,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>	
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a></p>	
 	
 	
 ### 👨🏼‍💼 [Jun 2018] Management and Leadership: Growing as a Manager
@@ -185,7 +185,7 @@ The course offers participants an introduction to the foundation skills and know
 
 </details>	
 
-<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
 		
 </details>	
 
@@ -205,7 +205,7 @@ The course offers participants an introduction to the foundation skills and know
 - [ ] [[Codeacademy] Learn Git Course](https://www.codecademy.com/learn/learn-git)
 - [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
 
-<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/edit/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="https://github.com/SamTaylor92/SamTaylor92/blob/main/README.md#table-of-contents" target="_blank">⬆</a></p>		
 	
 </details>
 
