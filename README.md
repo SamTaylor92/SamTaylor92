@@ -103,6 +103,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">	
 	
 </details>
+</details>	
 
 ## Side Projects
 <details open>
