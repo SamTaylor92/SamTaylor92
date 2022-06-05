@@ -71,10 +71,10 @@ This repository is to showcase skills, share projects and track my journey in Da
 [`PDF PRESENTATION`](https://google.com)<br><br>
 `Description:` 
 
->The dataset contains XXX records as of XXX. There is a list of company sales along with [LIST OTHER COLUMNS]. The project involved: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+> The dataset contains 100k records of a fictitious company's sales, customer, operational and product data. The project involved: data loading, data cleaning, preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors, hypothesis testing.  
 
-`Skills:` data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-`Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
+`Skills:` Data cleaning, data analysis, descriptive statistics, data visualization.  
+`Tools:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
 `Results:` Data-based business recommendations for the company.  
 <p align="right"> <a href="#-tools" target="_blank">⬆</a>
 </p>
