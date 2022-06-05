@@ -76,7 +76,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Skills:` data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 `Technology:` Python, Pandas, Numpy, Seaborn, Matplotlib.  
 `Results:` Data-based business recommendations for the company.  
-<p align="right"> <a href="#table-of-contents" target="_blank">⬆</a>
+<p align="right"> <a href="#-tools" target="_blank">⬆</a>
 </p>
 <p align="right">
 	
@@ -98,7 +98,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 >A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) 	for each core skill (data aggregation & exploratory data analysis). <br>
 	
 <p align="right"> 
-<a href="#table-of-contents" target="_blank">⬆</a>
+<a href="#-tools" target="_blank">⬆</a>
 </p>
 <p align="right">	
 	
@@ -118,7 +118,7 @@ This repository is to showcase skills, share projects and track my journey in Da
  
 
 <p align="right"> 
-<a href="#table-of-contents" target="_blank">⬆</a>
+<a href="#-tools" target="_blank">⬆</a>
 </p>
 <p align="right">
 	
@@ -147,7 +147,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-<p align='right'><a href="#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 
 	
 ### 🦸🏼‍♂️ [Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero
@@ -170,7 +170,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-<p align='right'><a href="#table-of-contents" target="_blank">⬆</a></p>	
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>	
 	
 	
 ### 👨🏼‍💼 [Jun 2018] Management and Leadership: Growing as a Manager
@@ -187,7 +187,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>	
 
-<p align='right'><a href="#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 		
 </details>	
 
@@ -207,7 +207,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [ ] [[Codeacademy] Learn Git Course](https://www.codecademy.com/learn/learn-git)
 - [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
 
-<p align='right'><a href="#table-of-contents" target="_blank">⬆</a></p>		
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 	
 </details>
 
