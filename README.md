@@ -23,7 +23,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </p>
 <h3> Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 </p>
 <h3> Tools:</h3>
@@ -35,6 +35,10 @@ This repository is to showcase skills, share projects and track my journey in Da
 <a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> 
 <a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/></a>
+<br><a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </a> 
 </p>
 
