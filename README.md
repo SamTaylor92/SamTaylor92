@@ -70,22 +70,23 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Date:` Q2 2021
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset.git)
 `Notebook:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sample_business_analysis.ipynb)
-`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/sample_report_sales_and_operation_analysis.pdf)
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/sample_report_sales_and_operation_analysis.pdf)<br><br>
+![presentation_gif](https://user-images.githubusercontent.com/105542266/172667865-9a9a685b-abb4-49c4-afdc-25c596a3555f.gif)
+	
+`Description:` 
+
+> The dataset contains ~100k records of a company's sales, customer, operational and product data. The project involved: data loading, data cleaning, preprocessing, filling missing values, exploratory data analysis, measuring statistical factors, hypothesis testing.  
+>
+>`Results:` Data-based [business recommendations](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/sample_report_sales_and_operation_analysis.pdf) for the company. <br><br>
+>`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   
 
 <p>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 <a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> 
 <a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
-</p>	
+</p>		
 	
-`Description:` 
-
-> The dataset contains ~100k records of a company's sales, customer, operational and product data. The project involved: data loading, data cleaning, preprocessing, filling missing values, exploratory data analysis, measuring statistical factors, hypothesis testing.  
->
->`Results:` Data-based business recommendations for the company. <br><br>
->`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   
- 
 <p align="right"> <a href="#-tools" target="_blank">⬆</a>
 </p>
 <p align="right">
@@ -103,19 +104,18 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
 	
 `Date:` Q2 2022
-`Repository:`[[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) `Duration:` 35 hours 
+`Repository:`[[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) `Duration:` 35 hours <br><br>
+`Description:` <br>
+	
+>A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git), one for each core skill (data aggregation & exploratory data analysis). <br>
+>
+>`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   
 
 <p>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 <a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> 
 </p>	
-
-`Description:` <br>
-	
->A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git), one for each core skill (data aggregation & exploratory data analysis). <br>
->
->`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   
 	
 <p align="right"> 
 <a href="#-tools" target="_blank">⬆</a>
@@ -133,19 +133,17 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary><h3>🚀[Google sheets: split by multiple email addresses and create 1 row per person]</h3></summary>
 
 `Date:` Q2 2022
-`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) 
+`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address) <br><br>
+`Description:` 
+>A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
+>
+>`Skills:` Spreadsheet formulas | Google suite | Stakeholder management 
 
 <p>
 <a target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/></a>
 <a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
 <a target="_blank"><img alt="Google Forms" src="https://img.shields.io/badge/Google%20Forms-7A1FA2.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
-</p>
-
-`Description:` 
->A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
->
->`Skills:` Spreadsheet formulas | Google suite | Stakeholder management  	
- 
+</p> 
 
 <p align="right"> 
 <a href="#-tools" target="_blank">⬆</a>
