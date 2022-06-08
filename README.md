@@ -116,6 +116,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 </blockquote>	
 </p>	
 
+![olympics_heatmap](https://user-images.githubusercontent.com/105542266/172046085-ccd6ab7e-1e51-4bb3-bc2e-4332374b3ca7.png)	
+	
 `Description:` <br>
 	
 >A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git), one for each core skill (data aggregation & exploratory data analysis). <br>
@@ -146,6 +148,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 <a target="_blank"><img alt="Google Forms" src="https://img.shields.io/badge/Google%20Forms-7A1FA2.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
 </blockquote></p> 
 
+![email splitter](https://user-images.githubusercontent.com/105542266/172676730-7b51bcec-6607-40f3-bb7c-e1576db61396.gif)
+	
 `Description:` 
 >A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
 >
