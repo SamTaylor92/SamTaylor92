@@ -68,9 +68,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
 	
 `Date:` Q2 2021
-`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset.git)
+`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset)
 `Notebook:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sample_business_analysis.ipynb)
-`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/sample_report_sales_and_operation_analysis.pdf)<br><br>
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sales%20and%20Operation%20Analysis.pdf)<br><br>
 ![presentation_gif](https://user-images.githubusercontent.com/105542266/172667865-9a9a685b-abb4-49c4-afdc-25c596a3555f.gif)
 	
 `Description:` 
