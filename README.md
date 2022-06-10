@@ -42,7 +42,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </a> 
 </p>
 
-<details>
+<details open>
 <summary> <h2>Table of contents</h2></summary>	
 
 - [About](#about)
