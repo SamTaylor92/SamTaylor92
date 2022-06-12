@@ -51,7 +51,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [Learning projects](#learning-projects)  
 	+ [Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python](#udemy-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
-	+ [Google sheets: split by multiple email addresses and create 1 row per person](#google-sheets-split-by-multiple-email-addresses-and-create-1-row-per-person)
+	+ [Google sheets: split a column containing multiple email addresses into 1 row per email address](#google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [Google sheets: confitional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
 - [Certificates](#certificates)
 	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
@@ -140,7 +140,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
 
 <details open>
-	<summary><h3>🚀[Google sheets: split by multiple email addresses and create 1 row per person]</h3></summary>
+	<summary><h3>🚀[Google sheets: split a column containing multiple email addresses into 1 row per email address]</h3></summary>
 
 `Date:` Q2 2022
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address)
