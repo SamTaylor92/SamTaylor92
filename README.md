@@ -52,6 +52,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python](#udemy-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
 	+ [Google sheets: split by multiple email addresses and create 1 row per person](#google-sheets-split-by-multiple-email-addresses-and-create-1-row-per-person)
+	+ [Google sheets: confitional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
 - [Certificates](#certificates)
 	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
 	+ [[Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
@@ -163,6 +164,32 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">
 	
 </details>
+
+<details open>
+	<summary><h3>🚀[Google sheets: conditional second dropdown menu]</h3></summary>
+
+`Date:` Q2 2022
+`Repository:` [[Link]](https://github.com/SamTaylor92/Google-Sheets-conditional-second-dropdown)
+
+<p> <blockquote>
+<a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
+<a target="_blank"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-7A1FA2.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
+</blockquote></p> 
+
+![conditional dropdown](https://user-images.githubusercontent.com/105542266/173226404-d0dfb6a9-3e48-43bd-b5c0-d852ff836cd4.gif)
+	
+`Description:` 
+>A Google Apps Script created for a client. The client wanted to speed up a repetitive, manual process for its users and reduce input errors. They wanted to create two dropdown menus in a Google Sheet, where the second dropdown menu was dependant on the input of the first dropdown menu. This repository documents this project. <br>
+>
+>`Skills:` Google Apps Script | Google suite | Stakeholder management 
+
+<p align="right"> 
+<a href="#-tools" target="_blank">⬆</a>
+</p>
+<p align="right">
+	
+</details>
+
 </details>
 	
 ## Certificates
