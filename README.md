@@ -108,9 +108,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
 	
 `Date:` Q2 2022
+`Duration:` 35 hours
 `Repository:`[[Link]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git) 
 `Notebooks:` [[Data aggregation]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Data%20aggregation%20project/Summer_olympics_data_aggregation.ipynb) | [[Data analysis]](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Exploratory%20data%20analysis%20project/Explanatory_Data_Analysis_Project_Olympics.ipynb)
-`Duration:` 35 hours
 
 <p><blockquote>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
