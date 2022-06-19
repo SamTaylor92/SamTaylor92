@@ -88,7 +88,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 > The dataset contains ~100k records of a company's sales, customer, operational and product data. The project involved: data loading, data cleaning, preprocessing, filling missing values, exploratory data analysis, measuring statistical factors, hypothesis testing.  
 >
->`Results:` Data-based [business recommendations](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/sample_report_sales_and_operation_analysis.pdf) for the company. <br><br>
+>`Results:` Data-based [business recommendations](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sales%20and%20Operation%20Analysis.pdf) for the company. <br><br>
 >`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   		
 	
 <p align="right"> <a href="#-tools" target="_blank">⬆</a>
