@@ -49,15 +49,16 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [Portfolio projects](#portfolio-projects)
 	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)  
-	+ [Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python](#udemy-the-complete-pandas-bootcamp-2022-data-science-with-python)
+	+ [The Complete Pandas Bootcamp 2022 Data Science with Python](#the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
 	+ [Google sheets: split a column containing multiple email addresses into 1 row per email address](#google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [Google sheets: confitional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
 - [Certificates](#certificates)
+	+ [[Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
 	+ [[Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
 	+ [[Jun 2018] Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
-- [Learning](#learning)
+- [Future learning](#future-learning)
 
 </details>
 
@@ -105,7 +106,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details open>
 
-<summary> <h3>🐼[Udemy: The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
+<summary> <h3>🐼[The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
 	
 `Date:` Q2 2022
 `Duration:` 35 hours
@@ -114,8 +115,11 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <p><blockquote>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 <a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> 
+<a target="_blank"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>	
 </blockquote>	
 </p>	
 
@@ -125,7 +129,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 >A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git), one for each core skill ([data aggregation](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Data%20aggregation%20project/Summer_olympics_data_aggregation.ipynb) & [exploratory data analysis](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Exploratory%20data%20analysis%20project/Explanatory_Data_Analysis_Project_Olympics.ipynb)). <br>
 >
->`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization   
+>`Skills:` Data cleaning | Data analysis | Descriptive statistics | Data visualization | Statistics | Machine learning | Time series   
 	
 <p align="right"> 
 <a href="#-tools" target="_blank">⬆</a>
@@ -195,6 +199,31 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Certificates
 <details open>
 	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.</summary>
+
+### 🐼 [Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration:` 6 months
+`Credential:` [[Link]](https://www.udemy.com/certificate/UC-324e44ee-91a8-4108-bb8e-66ada008eb2f/)
+
+<details open>
+
+<summary> <code> Description: </code> </summary> <br>
+
+>  - Bring your data handling & data analysis skills to an outstanding level.
+>  - Master a complete machine learning project A-Z with Pandas, Scikit-Learn, and Seaborn
+>  - Practice and master your Pandas skills with quizzes, 150+ exercises, and comprehensive projects
+>  - Learn and master the most important Pandas workflows for finance
+>  - Learn the basics of Pandas and Numpy coding 
+>  - Learn and practice all relevant Pandas methods and workflows with real-world datasets
+>  - Import, clean, and merge messy data and prepare data for machine learning
+>  - Analyze, visualize, and understand your data with Pandas, Matplotlib, and Seaborn
+>  - Import financial/stock data from web sources and analyze them with Pandas
+>  - Learn and master important statistical concepts with scipy
+
+</details>
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 	
 ### 💻 [Apr 2022] SQL Fundamentals Track 
 
@@ -260,7 +289,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-## Learning
+## Future learning
 
 <details open>
 	<summary> Future courses that I want to explore. </summary><br>
