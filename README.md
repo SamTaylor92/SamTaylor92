@@ -54,6 +54,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [Google sheets: split a column containing multiple email addresses into 1 row per email address](#google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [Google sheets: confitional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
 - [Certificates](#certificates)
+	+ [[Oct 2022] Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
 	+ [[Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
 	+ [[Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
@@ -198,7 +199,39 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 ## Certificates
 <details open>
-	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.</summary>
+	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.
+
+</summary>
+
+### 📈 [Oct 2022] Statistics for Data Science and Business Analysis
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration:` 3 months
+`Credential:` [[Link]](https://www.udemy.com/certificate/UC-f4313a60-ed04-433c-842e-5bfbb72928d2/)
+
+<details open>
+
+<summary> <code> Description: </code> </summary> <br>
+
+>  - Understand the fundamentals of statistics
+>  - Learn how to work with different types of data
+>  - How to plot different types of data
+>  - Calculate the measures of central tendency, asymmetry, and variability
+>  - Calculate correlation and covariance
+>  - Distinguish and work with different types of distributions
+>  - Estimate confidence intervals
+>  - Perform hypothesis testing
+>  - Make data driven decisions
+>  - Understand the mechanics of regression analysis
+>  - Carry out regression analysis
+>  - Use and understand dummy variables
+>  - Understand the concepts needed for data science even with Python and R
+
+</details>
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
+	
+</summary>
 
 ### 🐼 [Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python
 
