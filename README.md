@@ -52,7 +52,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [The Complete Pandas Bootcamp 2022 Data Science with Python](#the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
 	+ [Google sheets: split a column containing multiple email addresses into 1 row per email address](#google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
-	+ [Google sheets: confitional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
+	+ [Google sheets: conditional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
 - [Certificates](#certificates)
 	+ [[Oct 2022] Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
 	+ [[Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
