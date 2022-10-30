@@ -220,6 +220,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 >  - Pandas for Data Visualization
 >  - How to Work with Time Series Data with Pandas
 >  - Use Statsmodels to Analyze Time Series Data
+>  - Evaluate a model's efficiency by comparing training and test data 	
 >  - Use Facebook's Prophet Library for forecasting
 >  - Understand advanced ARIMA models for Forecasting
 	
