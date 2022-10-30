@@ -39,6 +39,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </a> 
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
 <details open>
