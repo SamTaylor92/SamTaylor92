@@ -15,7 +15,6 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 ## About
 
 Hi, I'm Sam!
-
 	
 I am a Business Intelligence Analyst, based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 5 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead and a Quality Assurance Manager before transitioning over to an Operations Analyst in November 2021.
 	
@@ -47,18 +46,19 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
-	+ [Company Sales and Operations Analysis](#company-sales-and-operations-analysis)
+	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)  
-	+ [The Complete Pandas Bootcamp 2022 Data Science with Python](#the-complete-pandas-bootcamp-2022-data-science-with-python)
+	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#-may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
-	+ [Google sheets: split a column containing multiple email addresses into 1 row per email address](#google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
-	+ [Google sheets: conditional second dropdown menu](#google-sheets-conditional-second-dropdown-menu)
-- [Certificates](#certificates)
-	+ [[Oct 2022] Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
-	+ [[Jun 2022] The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
-	+ [[Apr 2022] SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
-	+ [[Jan 2022] The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
-	+ [[Jun 2018] Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
+	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#-may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
+	+ [May 2022] [Google sheets: conditional second dropdown menu](#-may-2022-google-sheets-conditional-second-dropdown-menu)
+- [Courses](#courses)
+	+ [Nov 2022] [Python for Time Series Data Analysis](#-nov-2022-python-for-time-series-data-analysis)
+	+ [Oct 2022] [Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
+	+ [Jun 2022] [The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
+	+ [Apr 2022] [SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
+	+ [Jan 2022] [The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
+	+ [Jun 2018] [Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
 - [Future learning](#future-learning)
 
 </details>
@@ -68,7 +68,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary>Below are projects I've worked on.</summary>
 
 <details open>
-<summary> <h3>💼[Company Sales and Operations Analysis]</h3> </summary>
+<summary> <h3>💼 [May 2021] Company Sales and Operations Analysis</h3> </summary>
 	
 `Date:` Q2 2021
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset)
@@ -107,7 +107,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 <details open>
 
-<summary> <h3>🐼[The Complete Pandas Bootcamp 2022 Data Science with Python]</h3> </summary>
+<summary> <h3>🐼 [May 2022] The Complete Pandas Bootcamp 2022 Data Science with Python</h3> </summary>
 	
 `Date:` Q2 2022
 `Duration:` 35 hours
@@ -145,7 +145,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
 
 <details open>
-	<summary><h3>🚀[Google sheets: split a column containing multiple email addresses into 1 row per email address]</h3></summary>
+	<summary><h3>🚀 [May 2022] Google sheets: split a column containing multiple email addresses into 1 row per email address</h3></summary>
 
 `Date:` Q2 2022
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address)
@@ -171,7 +171,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </details>
 
 <details open>
-	<summary><h3>🚀[Google sheets: conditional second dropdown menu]</h3></summary>
+	<summary><h3>🚀 [May 2022] Google sheets: conditional second dropdown menu</h3></summary>
 
 `Date:` Q2 2022
 `Repository:` [[Link]](https://github.com/SamTaylor92/Google-Sheets-conditional-second-dropdown)
@@ -197,12 +197,35 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 	
-## Certificates
+## Courses
 <details open>
-	<summary> Although not a replacement for on-the-job experience or project work, here are some certifications I have acquired over the years.
+	<summary> Although not a replacement for on-the-job experience or project work, here are some of the courses I have completed over the years.
 
 </summary>
 
+### 📉 [Nov 2022] Python for Time Series Data Analysis
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration:` 1 month
+`Credential:` [[On going]](https://www.google.com)
+`Repository:` [[Link]](https://github.com/SamTaylor92/Python_for_time_series_data_analysis/blob/main/README.md)
+
+<details open>
+
+<summary> <code> Description: </code> </summary> <br>
+
+>  - Pandas for Data Manipulation
+>  - NumPy and Python for Numerical Processing
+>  - Pandas for Data Visualization
+>  - How to Work with Time Series Data with Pandas
+>  - Use Statsmodels to Analyze Time Series Data
+>  - Use Facebook's Prophet Library for forecasting
+>  - Understand advanced ARIMA models for Forecasting
+	
+</details>
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
+	
 ### 📈 [Oct 2022] Statistics for Data Science and Business Analysis
 
 `Organisation:` [Udemy](https://www.udemy.com/) 
