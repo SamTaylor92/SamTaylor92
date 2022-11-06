@@ -60,7 +60,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [Apr 2022] [SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
 	+ [Jan 2022] [The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
 	+ [Jun 2018] [Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
-- [Future learning](#future-learning)
+- [Reference material](#reference-material)
 
 </details>
 
@@ -347,19 +347,13 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </details>
 
-## Future learning
+## Reference material
 
 <details open>
-	<summary> Future courses that I want to explore. </summary><br>
+	<summary> A list of useful reference material. </summary><br>
 
-- [ ] [[Kaggle] Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- [ ] [[Kaggle: Time series]](https://www.kaggle.com/learn/time-series)	
-- [ ] [[Kaggle] Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [ ] [[Coursera] Data Science Math Skills](https://www.classcentral.com/course/datasciencemathskills-7745)
-- [ ] [[Codeacademy] Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science)
-- [ ] [[Codeacademy] Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)
-- [ ] [[Codeacademy] Learn Git Course](https://www.codecademy.com/learn/learn-git)
-- [ ] [[Codeacademy] Learn Python 3 Course](https://www.codecademy.com/learn/learn-python-3)
+- [ ] [The Good Research Code Handbook](https://goodresearch.dev/index.html)
+- [ ] [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 
 <p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 	
