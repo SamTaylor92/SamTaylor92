@@ -139,14 +139,14 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">	
 	
 </details>
-</details>	
+</details>
 
 ## Side Projects
 <details open>
 	<summary>Below are a collection of non-data-analytic projects that I have been working on.</summary>
-
+	
 <details open>
-	<summary><h3>🚀 [May 2022] Google sheets: split a column containing multiple email addresses into 1 row per email address</h3></summary>
+	<summary><h3>🚀[May 2022] Google sheets: split a column containing multiple email addresses into 1 row per email address</h3></summary>
 
 `Date:` Q2 2022
 `Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-Split-Google-Form-responses-1-row-per-email-address)
@@ -159,9 +159,10 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 ![email splitter](https://user-images.githubusercontent.com/105542266/172676730-7b51bcec-6607-40f3-bb7c-e1576db61396.gif)
 	
-`Description:` 
+`Description:`
+
 >A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
->
+
 >`Skills:` Spreadsheet formulas | Google suite | Stakeholder management 
 
 <p align="right"> 
@@ -170,6 +171,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">
 	
 </details>
+
 
 <details open>
 	<summary><h3>🚀 [May 2022] Google sheets: conditional second dropdown menu</h3></summary>
@@ -195,8 +197,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">
 	
 </details>
-
 </details>
+
 	
 ## Courses
 <details open>
