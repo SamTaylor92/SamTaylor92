@@ -212,7 +212,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Organisation:` [Udemy](https://www.udemy.com/) 
 `Duration:` 1 month
 `Credential:` [[Link]](https://udemy-certificate.s3.amazonaws.com/pdf/UC-48a49643-819e-4ed4-a2e9-ad7f90be6d3d.pdf)
-`Repository:` [[Link]](https://google.com)
+`Repository:` [[Link]](https://github.com/SamTaylor92/automate-the-boring-stuff-course-notes-repository)
 	
 <details open>
 
