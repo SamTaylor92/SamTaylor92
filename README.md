@@ -161,9 +161,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 `Description:`
 
->A Google sheets formula created for a client. The client wanted to speed up a process for its users. They wanted to allow users to input more than one email address in the `receiver` field of a Google Form (previously they could only enter one). They then wanted to find a way to split out the data and duplicate the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
+>A Google sheets formula to speed up a recurring process. The formula allows users to input more than one email address in the `receiver` field of a Google Form, splits out the data and duplicates the rows in the back end (1 duplication per email entered into the `receiver` field). This repository documents this project. <br>
 
->`Skills:` Spreadsheet formulas | Google suite | Stakeholder management 
+>`Skills:` Spreadsheet formulas | Google suite
 
 <p align="right"> 
 <a href="#-tools" target="_blank">⬆</a>
@@ -187,9 +187,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 ![conditional dropdown](https://user-images.githubusercontent.com/105542266/173226404-d0dfb6a9-3e48-43bd-b5c0-d852ff836cd4.gif)
 	
 `Description:` 
->A Google Apps Script created for a client. The client wanted to speed up a repetitive, manual process for its users and reduce input errors. They wanted to create two dropdown menus in a Google Sheet, where the second dropdown menu was dependant on the input of the first dropdown menu. This repository documents this project. <br>
+>A Google Apps Script to speed up a repetitive, manual process and reduce input errors. The script creates two dropdown menus in a Google Sheet, where the second dropdown menu is dependant on the input of the first dropdown menu. This repository documents this project. <br>
 >
->`Skills:` Google Apps Script | Google suite | Stakeholder management 
+>`Skills:` Google Apps Script | Google suite
 
 <p align="right"> 
 <a href="#-tools" target="_blank">⬆</a>
