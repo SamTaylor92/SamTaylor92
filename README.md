@@ -54,6 +54,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#-may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [May 2022] [Google sheets: conditional second dropdown menu](#-may-2022-google-sheets-conditional-second-dropdown-menu)
 - [Courses](#courses)
+	+ [Mar 2023] [Automate the Boring Stuff with Python Programming](#-mar-2023-automate-the-boring-stuff-with-python-programming)
 	+ [Nov 2022] [Python for Time Series Data Analysis](#-nov-2022-python-for-time-series-data-analysis)
 	+ [Oct 2022] [Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
 	+ [Jun 2022] [The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
@@ -206,6 +207,31 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 </summary>
 
+### 🐍 [Mar 2023] Automate the Boring Stuff with Python Programming
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration:` 1 month
+`Credential:` [[Link]](https://udemy-certificate.s3.amazonaws.com/pdf/UC-48a49643-819e-4ed4-a2e9-ad7f90be6d3d.pdf)
+`Repository:` [[Link]](https://google.com)
+	
+<details open>
+
+<summary> <code> Description: </code> </summary> <br>
+
+> - Automate tasks on their computer by writing simple Python programs.
+> - Write programs that can do text pattern recognition with "regular expressions".
+> - Programmatically generate and update Excel spreadsheets.
+> - Parse PDFs and Word documents.
+> - Crawl web sites and pull information from online sources.
+> - Write programs that send out email notifications.
+> - Use Python's debugging tools to quickly figure out bugs in your code.
+> - Programmatically control the mouse and keyboard to click and type for you.
+	
+</details>
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
+		
+	
 ### 📉 [Nov 2022] Python for Time Series Data Analysis
 
 `Organisation:` [Udemy](https://www.udemy.com/) 
