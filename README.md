@@ -382,6 +382,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 - [ ] [The Good Research Code Handbook](https://goodresearch.dev/index.html)
 - [ ] [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [ ] [An Introduction to Statistical Learning](https://www.statlearning.com)	
 
 <p align='right'><a href="#-tools" target="_blank">⬆</a></p>		
 	
