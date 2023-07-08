@@ -237,7 +237,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Organisation:` [Udemy](https://www.udemy.com/) 
 `Duration:` 1 month
 `Credential:` [[On going]](https://www.google.com)
-`Repository:` [[Link]](https://github.com/SamTaylor92/Python_for_time_series_data_analysis/blob/main/README.md)
+`Repository:` [[Link]](https://github.com/SamTaylor92/Python-for-time-series-data-analysis/blob/main/README.md)
 
 <details open>
 
