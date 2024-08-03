@@ -16,7 +16,7 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 
 Hi, I'm Sam!
 	
-I am a Business Intelligence Analyst, based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 5 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead and a Quality Assurance Manager before transitioning over to an Operations Analyst in November 2021.
+I am a Business Intelligence Analyst, based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 7 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead and a Quality Assurance Manager before transitioning over to an Operations Analyst in November 2021.
 	
 This repository is to showcase skills, share projects and track my journey in Data Analytics.  
 </p>
@@ -51,7 +51,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 - [Learning projects](#learning-projects)  
 	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#-may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
-	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#-may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
+	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [May 2022] [Google sheets: conditional second dropdown menu](#-may-2022-google-sheets-conditional-second-dropdown-menu)
 - [Courses](#courses)
 	+ [Mar 2023] [Automate the Boring Stuff with Python Programming](#-mar-2023-automate-the-boring-stuff-with-python-programming)
