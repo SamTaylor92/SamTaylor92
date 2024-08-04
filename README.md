@@ -91,7 +91,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 </blockquote> 
 </p>	
 
-![iris_presentation](https://github.com/user-attachments/assets/b9a9d0a9-f32c-45f6-a08b-d258fbb704b1)
+<p align="center">
+<img width="748" alt="Screenshot 2024-08-04 at 11 12 24" src="https://github.com/user-attachments/assets/3accf0f4-3fdc-41cf-8049-09b5579f2d86"> </p>
 	
 `Description:` 
 
