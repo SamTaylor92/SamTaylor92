@@ -47,6 +47,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
+  	+ [Oct 2023] [9-Part Data Analysis Tutorial for Beginner Analysts](#%EF%B8%8F-october-2023-9-part-data-analysis-tutorial-for-beginner-analysts) 
 	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)  
 	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#-may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
@@ -68,6 +69,56 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Portfolio Projects 
 <details open>
 <summary>Below are projects I've worked on.</summary>
+
+<details open>
+<summary> <h3>✍️ [October 2023] 9-Part Data Analysis Tutorial for Beginner Analysts</h3> </summary>
+	
+`Date:` Q3 2023
+`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset)
+`Notebook:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sample_business_analysis.ipynb)
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sales%20and%20Operation%20Analysis.pdf)
+`Blog Posts:`[[Link]](https://medium.com/@SamTaylor92/list/data-analysis-project-iris-flower-dataset-9-steps-aa71a2531d67)
+
+<p> 
+<blockquote> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+<a target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a> 
+</blockquote> 
+</p>	
+
+![iris_presentation](https://github.com/user-attachments/assets/b9a9d0a9-f32c-45f6-a08b-d258fbb704b1)
+	
+`Description:` 
+
+> A comprehensive 9-part guide on analysing a dataset using Python (Pandas) and VS Code. Perfect for beginner analysts looking to enhance their data analysis portfolio. Written on Medium.com as a series of blog posts. 
+>
+> 🔍 The series covers:
+>
+> * Defining Objectives
+> * Data Acquisition
+> * Data Exploration
+> * Data Cleaning
+> * Data Visualization
+> * Feature Engineering
+> * Statistical Analysis
+> * Machine Learning
+> * Presenting Solutions
+>
+> Each step is broken down with practical examples and code snippets, making it easy for beginners to follow along and learn.
+>
+>`Results:` [A 9-part blog series](https://medium.com/@SamTaylor92/list/data-analysis-project-iris-flower-dataset-9-steps-aa71a2531d67) to help aspiring data analysts prepare a portfolio piece. <br><br>
+>`Skills:` Data cleaning | Data analysis | Descriptive statistics | Statistical analysis | Machine learning | Data visualization   		
+	
+<p align="right"> <a href="#-tools" target="_blank">⬆</a>
+</p>
+<p align="right">
+	
+</details>
 
 <details open>
 <summary> <h3>💼 [May 2021] Company Sales and Operations Analysis</h3> </summary>
@@ -100,6 +151,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 <p align="right">
 	
 </details>
+
 </details>
 	
 ## Learning Projects
