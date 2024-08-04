@@ -74,9 +74,9 @@ This repository is to showcase skills, share projects and track my journey in Da
 <summary> <h3>✍️ [October 2023] 9-Part Data Analysis Tutorial for Beginner Analysts</h3> </summary>
 	
 `Date:` Q3 2023
-`Repository:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset)
-`Notebook:` [[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sample_business_analysis.ipynb)
-`PDF Slides:`[[Link]](https://github.com/SamTaylor92/Q2-2022-sample-business-dataset/blob/main/sample_business_datasets/Sales%20and%20Operation%20Analysis.pdf)
+`Repository:` [[Link]](https://github.com/SamTaylor92/9-step-blog-project-data-analysis)
+`Notebook:` [[Link]](https://github.com/SamTaylor92/9-step-blog-project-data-analysis/blob/main/iris_dataset.ipynb)
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/9-step-blog-project-data-analysis/blob/main/presentation/IRIS%20FLOWER%20DATASET.pdf)
 `Blog Posts:`[[Link]](https://medium.com/@SamTaylor92/list/data-analysis-project-iris-flower-dataset-9-steps-aa71a2531d67)
 
 <p> 
