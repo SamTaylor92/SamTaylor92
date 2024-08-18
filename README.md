@@ -266,6 +266,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 `Organisation:` [Udemy](https://www.udemy.com/) 
 `Duration:` 1 month
 `Credential:` [[Link]](https://www.udemy.com/certificate/UC-7d158d2c-31a3-4c13-a21c-d02b4c925033/)
+`Repository:` [[Link]](https://github.com/SamTaylor92/practical_database_design_course)
 	
 <details open>
 
