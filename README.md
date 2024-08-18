@@ -55,7 +55,8 @@ This repository is to showcase skills, share projects and track my journey in Da
 	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [May 2022] [Google sheets: conditional second dropdown menu](#-may-2022-google-sheets-conditional-second-dropdown-menu)
 - [Courses](#courses)
-	+ [Mar 2023] [Automate the Boring Stuff with Python Programming](#-mar-2023-automate-the-boring-stuff-with-python-programming)
+	+ [Aug 2024] [Practical database design](#-aug-2024-practical-database-design)
+  	+ [Mar 2023] [Automate the Boring Stuff with Python Programming](#-mar-2023-automate-the-boring-stuff-with-python-programming)
 	+ [Nov 2022] [Python for Time Series Data Analysis](#-nov-2022-python-for-time-series-data-analysis)
 	+ [Oct 2022] [Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
 	+ [Jun 2022] [The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
@@ -259,6 +260,29 @@ This repository is to showcase skills, share projects and track my journey in Da
 	<summary> Although not a replacement for on-the-job experience or project work, here are some of the courses I have completed over the years.
 
 </summary>
+
+### 📊 [Aug 2024] Practical Database Design
+
+`Organisation:` [Udemy](https://www.udemy.com/) 
+`Duration:` 1 month
+`Credential:` [[Link]](https://www.udemy.com/certificate/UC-7d158d2c-31a3-4c13-a21c-d02b4c925033/)
+	
+<details open>
+
+<summary> <code> Description: </code> </summary> <br>
+
+> - Build a database design from a given set of requirements
+> - Determine a set of prelimiary entities and attributes to start a database design
+> - Normalise a database design into 1NF taking into consideration multivalued and miltipart fields
+> - Establish table candidate and primary keys
+> - Normalise a database design into 2NF taking into consideration partial key dependencies
+> - Identify multiple types of table relationships and define relationships between tables
+> - Normalise a database design into 3NF taking into consideration transitive dependencies
+> - Develop database design solutions to common features of a blog application
+	
+</details>
+
+<p align='right'><a href="#-tools" target="_blank">⬆</a></p>	
 
 ### 🐍 [Mar 2023] Automate the Boring Stuff with Python Programming
 
