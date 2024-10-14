@@ -102,11 +102,12 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 `Description:` 
 
-> This project focuses on building an **ETL pipeline** for **Dead by Daylight** game data. <br><br> The pipeline processes data from various game entities such as characters, perks, maps, addons, and match details. <br><br>
-> Using **VS Code** we designed the pipeline to transform, clean, and load data into structured formats that support game balancing analysis, player performance tracking, and game element ratings.<br><br>
-> The data is sourced from [Dennis Reep's Dead by Daylight website](https://dennisreep.nl/dbd/), and integrated into a database designed to store, manage, and analyze key elements for decision-making around the game.<br><br>
+> This project focuses on building an **ETL pipeline** for **Dead by Daylight** game data.
+> <br><br> The pipeline processes data from various game entities such as characters, perks, maps, addons, and match detail and sorts this data into relvant tables in a databse.
+> <br><br> Then, using python, we designed a pipeline to transform, clean, and load data into structured formats that support game balancing analysis, player performance tracking, and game element ratings.
+> <br><br> The data is sourced from [Dennis Reep's Dead by Daylight website](https://dennisreep.nl/dbd/) via **scraping (with permission)**, and integrated into a database designed to store, manage, and analyze key elements for decision-making around the game.<br><br>
 >`Results:` [A comprehensive analysis on the Dead by Daylight game](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight/blob/main/%5BAugust%202024%5D%20Dead%20by%20Daylight.pdf) summarised in PDF form <br><br>
->`Skills:` ETL | Data Pipeline | Data Scraping | Data cleaning | Data analysis | Descriptive statistics | Statistical analysis | Data visualization   		
+>`Skills:` Data engineering | ETL | Data Pipeline | Data Scraping | Data cleaning | Data analysis | Descriptive statistics | Statistical analysis | Data visualization   		
 	
 <p align="right"> <a href="#-tools" target="_blank">⬆</a>
 </p>
