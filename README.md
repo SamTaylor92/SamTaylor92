@@ -47,6 +47,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
+  	+ [Aug 2024] [Data Engineer Project: Dead by Daylight ETL Pipeline](#-%EF%B8%8F-august-2024-data-engineer-project-dead-by-daylight-etl-pipeline-)
   	+ [Oct 2023] [9-Part Data Analysis Tutorial for Beginner Analysts](#%EF%B8%8F-october-2023-9-part-data-analysis-tutorial-for-beginner-analysts) 
 	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)  
@@ -70,6 +71,49 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Portfolio Projects 
 <details open>
 <summary>Below are projects I've worked on.</summary>
+
+<details open>
+<summary> <h3> ⚙️ [August 2024] Data Engineer Project: Dead by Daylight ETL Pipeline </h3> </summary>
+	
+`Date:` Q3 2024
+`Repository:` [[Link]](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight)
+`Notebook:` [[Link]](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight/blob/main/dbd.ipynb)
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight/blob/main/%5BAugust%202024%5D%20Dead%20by%20Daylight.pdf)
+`Project Documentation:`[[Link]](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight/blob/main/%5BAugust%202024%5D%20Dead%20by%20Daylight_%20Database%20documentation.pdf)
+
+<p> 
+<blockquote> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a target="_blank"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/></a>
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+<a target="_blank"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a> 
+	
+</blockquote> 
+</p>	
+
+<p align="center">
+<img width="748" alt="Data engineer project end-to-end process in GIF form" src="https://github.com/user-attachments/assets/c5ac44d2-db7e-4d97-bd49-5bf8e1baec44">
+</p>
+	
+`Description:` 
+
+> This project focuses on building an **ETL pipeline** for **Dead by Daylight** game data. <br><br> The pipeline processes data from various game entities such as characters, perks, maps, addons, and match details. <br><br>
+> Using **VS Code** we designed the pipeline to transform, clean, and load data into structured formats that support game balancing analysis, player performance tracking, and game element ratings.<br><br>
+> The data is sourced from [Dennis Reep's Dead by Daylight website](https://dennisreep.nl/dbd/), and integrated into a database designed to store, manage, and analyze key elements for decision-making around the game.<br><br>
+>`Results:` [A comprehensive analysis on the Dead by Daylight game](https://github.com/SamTaylor92/-2024-Q3-Data-Engineer-Project-Dead-by-Daylight/blob/main/%5BAugust%202024%5D%20Dead%20by%20Daylight.pdf) summarised in PDF form <br><br>
+>`Skills:` ETL | Data Pipeline | Data Scraping | Data cleaning | Data analysis | Descriptive statistics | Statistical analysis | Data visualization   		
+	
+<p align="right"> <a href="#-tools" target="_blank">⬆</a>
+</p>
+<p align="right">
+	
+</details>
+
 
 <details open>
 <summary> <h3>✍️ [October 2023] 9-Part Data Analysis Tutorial for Beginner Analysts</h3> </summary>
