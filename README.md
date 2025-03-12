@@ -47,6 +47,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 
 - [About](#about)
 - [Portfolio projects](#portfolio-projects)
+  	+ [Mar 2025] [Project: Marketing A/B Test](#--march-2025-project-marketing-ab-test-)
   	+ [Aug 2024] [Data Engineer Project: Dead by Daylight ETL Pipeline](#-%EF%B8%8F-august-2024-data-engineer-project-dead-by-daylight-etl-pipeline-)
   	+ [Oct 2023] [9-Part Data Analysis Tutorial for Beginner Analysts](#%EF%B8%8F-october-2023-9-part-data-analysis-tutorial-for-beginner-analysts) 
 	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
@@ -71,6 +72,45 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Portfolio Projects 
 <details open>
 <summary>Below are projects I've worked on.</summary>
+
+<details open>
+<summary> <h3> 📊 [March 2025] Project: Marketing A/B Test </h3> </summary>
+	
+`Date:` Q1 2025
+`Repository:` [[Link]](https://github.com/SamTaylor92/2025-q1-marketing-ab-test)
+`Notebook:` [[Link]](https://github.com/SamTaylor92/2025-q1-marketing-ab-test/blob/main/marketing_ab_test.ipynb)
+`PDF Slides:`[[Link]](https://github.com/SamTaylor92/2025-q1-marketing-ab-test/blob/main/%5B2025%20Q1%5D%20Marketing%20A_B%20Testing.pdf)
+`Google Slides:`[[Link]](https://docs.google.com/presentation/d/1POkoPpT-aI3VVVqPBBu3gfIOAySIEPgp3Cg-2iCyNI4/edit?usp=sharing)
+
+<p> 
+<blockquote> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="statsmodels" src="https://img.shields.io/badge/Statsmodels-3B5526.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white"/></a>
+<a target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a> 
+	
+</blockquote> 
+</p>	
+
+<p align="center">
+<img width="748" alt="Data engineer project end-to-end process in GIF form" src="https://github.com/user-attachments/assets/aa0ac2db-e2e8-4b16-8ef5-be2fe3002ec2">
+</p>
+	
+`Description:` 
+
+> This project analyzes the effectiveness of a marketing campaign using **A/B testing**.
+> <br><br> The goal is to determine whether ads significantly impact customer conversion rates. The analysis includes statistical methods such as attribution percentage and odds ratio calculations.
+> <br><br> The data is sourced from [Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data) <br><br>
+>`Results:` [A marketing analysis of the provided dataset](https://github.com/SamTaylor92/2025-q1-marketing-ab-test/blob/main/%5B2025%20Q1%5D%20Marketing%20A_B%20Testing.pdf) summarised in PDF form <br><br>
+>`Skills:` Data analysis | ETL | Data Pipeline | Data cleaning | Descriptive statistics | Statistical analysis | Data visualization | A/B Testing 		
+	
+<p align="right"> <a href="#-tools" target="_blank">⬆</a>
+</p>
+<p align="right">
+	
+</details>
 
 <details open>
 <summary> <h3> ⚙️ [August 2024] Data Engineer Project: Dead by Daylight ETL Pipeline </h3> </summary>
