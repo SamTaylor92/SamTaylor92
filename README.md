@@ -51,7 +51,8 @@ This repository is to showcase skills, share projects and track my journey in Da
   	+ [Aug 2024] [Data Engineer Project: Dead by Daylight ETL Pipeline](#-%EF%B8%8F-august-2024-data-engineer-project-dead-by-daylight-etl-pipeline-)
   	+ [Oct 2023] [9-Part Data Analysis Tutorial for Beginner Analysts](#%EF%B8%8F-october-2023-9-part-data-analysis-tutorial-for-beginner-analysts) 
 	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
-- [Learning projects](#learning-projects)  
+- [Learning projects](#learning-projects)
+  	+ [July 2025] [Weather Data Pipeline: API Pull with Modularisation](#--july-2025-weather-data-pipeline-api-pull-with-modularisation-)
 	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#-may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
 	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
@@ -244,9 +245,37 @@ This repository is to showcase skills, share projects and track my journey in Da
 ## Learning Projects
 
 <details open>
-	<summary>Below are projects worked on for online courses.</summary>
+	<summary>Below are projects that were worked on with the aim of learning particular data-related concepts. </summary>
 
 <details open>
+
+<summary> <h3> 📦 [July 2025] Weather Data Pipeline: API Pull with Modularisation </h3> </summary>
+	
+`Date:` Q2 2025
+`Repository:`[[Link]](https://github.com/SamTaylor92/weather-data-pipeline.git) 
+
+<p><blockquote>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
+<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>	
+</blockquote>	
+</p>	
+
+<img width="859" height="432" alt="Screenshot 2025-07-26 at 15 04 35" src="https://github.com/user-attachments/assets/23686e31-f18d-4948-93ec-ae7331cb6fa4" />
+
+	
+`Description:` <br>
+	
+>A simple data engineering [project](https://github.com/SamTaylor92/weather-data-pipeline.git) that pulls weather data from an API, with the aim of learning about modularization of Python functions within a productionized environment. <br>
+>
+>`Skills:` Data engineering | Python | Modularisation | Productionisation 
+	
+<p align="right"> 
+<a href="#-tools" target="_blank">⬆</a>
+</p>
+<p align="right">	
+	
+</details>
 
 <summary> <h3>🐼 [May 2022] The Complete Pandas Bootcamp 2022 Data Science with Python</h3> </summary>
 	
