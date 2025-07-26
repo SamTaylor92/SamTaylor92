@@ -268,6 +268,15 @@ This repository is to showcase skills, share projects and track my journey in Da
 	
 >A simple data engineering [project](https://github.com/SamTaylor92/weather-data-pipeline.git) that pulls weather data from an API, with the aim of learning about modularization of Python functions within a productionized environment. <br>
 >
+> I wanted to learn how to modularize a data pipeline end-to-end, from extraction to analytics.
+>
+> - Pull an API
+> - Store the API data locally
+> - Transform the API data
+> - Quick analysis of the data
+>
+> Previously, as an Analyst, I was used to running everything in one notebook (from API pull to analysis). This project was created to help me understand the modularization process of a data engineering project.
+>
 >`Skills:` Data engineering | Python | Modularisation | Productionisation 
 	
 <p align="right"> 
