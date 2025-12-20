@@ -26,7 +26,7 @@ This repository is to showcase skills, share projects and track my journey in Da
 </p>
 <h3> Tools:</h3>
 <p>
-<a target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a> 
+<a target="_blank"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white"/></a> 
 <a target="_blank"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white"/></a> 
 <a target="_blank"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white"/></a> 
 <a target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/></a>
