@@ -16,7 +16,7 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 
 Hi, I'm Sam!
 	
-I am a Junior Data Engineer (Business Intelligence), based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 8 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead, a Quality Assurance Manager and a Senior Operations Analyst, before transitioning over to a Junior Data Engineer in July 2025.
+I am an Associate Data Engineer (Business Intelligence), based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 8 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead, a Quality Assurance Manager and a Senior Operations Analyst, before transitioning over to a Junior Data Engineer in July 2025.
 	
 This repository is to showcase skills, share projects and track my journey in Data Analytics & Data Engineering.  
 </p>
