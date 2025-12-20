@@ -21,15 +21,14 @@ This repository is to showcase skills, share projects and track my journey in Da
 </p>
 <h3> Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-ED8B00.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 </p>
 <h3> Tools:</h3>
 <p>
 <a target="_blank"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white"/></a> 
-<a target="_blank"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white"/></a> 
 <a target="_blank"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white"/></a> 
-<a target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/></a>
+<a target="_blank"><img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white"/></a> 
 <a target="_blank"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white"/></a>
 </p>
 
