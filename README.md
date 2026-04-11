@@ -14,10 +14,28 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 ## About
 
 Hi, I'm Sam!
+
+For most of my career, I was the person asking for the data. **Now I'm the one building it.**
+
+I'm a Data Engineer based in Berlin, working on the traveler side of [GetYourGuide's](https://www.getyourguide.co.uk/) marketplace. My background spans 9+ years in the travel industry — as a Customer Service Agent, Team Lead, Quality Assurance Manager, and Operations Analyst — before moving into a Data Engineer title in 2025.
+
+That experience shapes everything I build. I've sat on the other side of the table: needing reliable KPIs, tracking quality trends, and depending on numbers I could trust. I know what it feels like to need a number urgently and not be able to trust it. So I build with the end user in mind, not just the end schema.
+
+I follow the data from source to decision:
+- **Extraction & Integration:** Python, APIs, Zendesk, Salesforce
+- **Transformation & Modelling:** SQL, dbt, Databricks, Delta Lake, Spark
+- **Semantic Layer & Reporting:** LookML, Looker
+
+**Context first, code second.** It is what turns technically correct solutions into ones people actually rely on.
+
+This repository is where I:
+- Document my learning journey in data engineering
+- Showcase projects and experiments
+- Share solutions to real problems I've encountered along the way
+
+---
+> *From source to decision.*
 	
-I am an Associate Data Engineer (Business Intelligence), based in Berlin, with a background in the travel industry and education. I hold a Bachelor's degree (B.A.) in Modern Languages (Spanish & English) and a Postgraduate Certificate in Education (PGCE), specialising in Secondary Education (Spanish & French). During my 8 years in the travel industry, with [GetYourGuide](https://www.getyourguide.co.uk/), I have worked as a Customer Service Agent, a Team Lead, a Quality Assurance Manager and a Senior Operations Analyst, before transitioning over to a Junior Data Engineer in July 2025.
-	
-This repository is to showcase skills, share projects and track my journey in Data Analytics & Data Engineering.  
 </p>
 <h3> Languages:</h3>
 <p>
