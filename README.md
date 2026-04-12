@@ -72,8 +72,8 @@ This repository is where I:
 	+ [Oct 2022] [Statistics for Data Science and Business Analysis](#-oct-2022-statistics-for-data-science-and-business-analysis)
 	+ [Jun 2022] [The Complete Pandas Bootcamp 2022: Data Science with Python](#-jun-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 	+ [Apr 2022] [SQL Fundamentals Track](#-apr-2022-sql-fundamentals-track)
-	+ [Jan 2022] [The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%EF%B8%8F-jan-2022-the-complete-sql-bootcamp-2022-go-from-zero-to-hero)
-	+ [Jun 2018] [Management and Leadership: Growing as a Manager](#-jun-2018-management-and-leadership-growing-as-a-manager)
+	+ [Jan 2022] [The Complete SQL Bootcamp 2022: Go from Zero to Hero](#%E2%80%8D-jun-2018-management-and-leadership-growing-as-a-manager)
+	+ [Jun 2018] [Management and Leadership: Growing as a Manager](#%E2%80%8D-jun-2018-management-and-leadership-growing-as-a-manager)
 - [Reference material](#reference-material)
 
 </details>
