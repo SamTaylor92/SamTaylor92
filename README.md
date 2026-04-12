@@ -61,7 +61,7 @@ This repository is where I:
 	+ [May 2021] [Company Sales and Operations Analysis](#-may-2021-company-sales-and-operations-analysis)
 - [Learning projects](#learning-projects)
   	+ [July 2025] [Weather Data Pipeline: API Pull with Modularisation](#--july-2025-weather-data-pipeline-api-pull-with-modularisation-)
-	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#-may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
+	+ [May 2022] [The Complete Pandas Bootcamp 2022 Data Science with Python](#--may-2022-the-complete-pandas-bootcamp-2022-data-science-with-python)
 - [Side projects](#side-projects)
 	+ [May 2022] [Google sheets: split a column containing multiple email addresses into 1 row per email address](#may-2022-google-sheets-split-a-column-containing-multiple-email-addresses-into-1-row-per-email-address)
 	+ [May 2022] [Google sheets: conditional second dropdown menu](#-may-2022-google-sheets-conditional-second-dropdown-menu)
@@ -294,7 +294,9 @@ This repository is where I:
 	
 </details>
 
-<summary> <h3>🐼 [May 2022] The Complete Pandas Bootcamp 2022 Data Science with Python</h3> </summary>
+<details open>
+
+<summary> <h3> 🐼 [May 2022] The Complete Pandas Bootcamp 2022 Data Science with Python</h3> </summary>
 	
 `Date:` Q2 2022
 `Duration:` 35 hours
@@ -311,8 +313,9 @@ This repository is where I:
 </blockquote>	
 </p>	
 
+
 ![olympics_heatmap](https://user-images.githubusercontent.com/105542266/172046085-ccd6ab7e-1e51-4bb3-bc2e-4332374b3ca7.png)	
-	
+
 `Description:` <br>
 	
 >A [course](https://www.udemy.com/course/the-pandas-bootcamp/) aimed at learning to use Pandas (Python library) for data aggregation and data 		analysis. <br>There were two [capstone projects](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python.git), one for each core skill ([data aggregation](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Data%20aggregation%20project/Summer_olympics_data_aggregation.ipynb) & [exploratory data analysis](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python/blob/main/Exploratory%20data%20analysis%20project/Explanatory_Data_Analysis_Project_Olympics.ipynb)). <br>
